@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['callback_desktop.py'],
-             pathex=['C:\\Users\\Despair\\PycharmProjects\\test_requests'],
+             pathex=['F:\\dev\\pycharm\\eve_sso_tutorial'],
              binaries=[],
              datas=[],
              hiddenimports=[],
